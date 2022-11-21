@@ -1,0 +1,8 @@
+beautifulsoup4==4.10.0
+lxml==4.6.3
+pytest==6.2.5
+pytest-base-url==1.4.2
+pytest-check==1.0.4
+pytest-selenium==2.0.1
+selenium==4.0.0
+urllib3==1.26.7
